@@ -1,12 +1,6 @@
 <h2 align="left">Hi 👋! My name is Allan and I'm learing python, from Brazil.</h2>
 
 ###
-<style>
-
-  a{
-    text-decoration: none;
-  }
-</style>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Matiaszz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matiaszz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
@@ -25,8 +19,8 @@
 ###
 
 <div align="left">
-  <a href='https://www.linkedin.com/in/allan-giovanni-9a7042269/'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href='mailto: allangiovannimatias@hotmail.com'><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href='https://www.linkedin.com/in/allan-giovanni-9a7042269/' style="text-decoration: none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href='mailto: allangiovannimatias@hotmail.com' style="text-decoration: none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
