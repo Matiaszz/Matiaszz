@@ -4,7 +4,7 @@
 <style>
 
   a{
-    text-decoration: none
+    text-decoration: none;
   }
 </style>
 <div align="center">
