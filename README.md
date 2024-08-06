@@ -1,19 +1,57 @@
-<h2> Hi, I'm Allan Gioavnni!</h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Systems development analyst at <a href="[http://www.unb.br](https://www.puc-campinas.edu.br/)">PUC-CAMPINAS</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p>
+# Hello there 👋
 
-[![Linkedin: allan-giovanni-9a7042269](https://img.shields.io/badge/-Matias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-giovanni-9a7042269/)](https://www.linkedin.com/in/allan-giovanni-9a7042269/)
-[![GitHub Matiaszz](https://img.shields.io/github/followers/Matiaszz?label=follow&style=social)](https://github.com/Matiaszz)
-
-
-  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
-allan = {
-    'pronouns': "he" or "him",
-    'code': [Python],
-    'tools': [Docker, Django, MySQL],
-    'challenge': "My objective is to learn Python and its useful libraries to enhance my programming skills, solve complex problems, and build effective and efficient software applications."
-}
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class StudentOfPython:
+
+    def __init__(self):
+        self.name = "Allan Giovanni Matias Paes"
+        self.role = "Student of Python"
+        self.language_spoken = ["pt-BR", "en_US(beta)"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = StudentOfPython()
+me.say_hi()
 ```
+
+## 🔧 Technologies & Tools
+
+**Programming Languages:**
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+
+**Tools and Services:**
+
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
+<!-- ## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Matiaszz/Matiaszz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Matiaszz/Matiaszz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a> -->
+
+
+## 🗂️ Highlight Projects
+<!--
+COLOCAR PROJETOS AQUI
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a> -->
+<!--
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a> -->
