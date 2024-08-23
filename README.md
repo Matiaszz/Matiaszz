@@ -1,56 +1,59 @@
-# Hello there 👋
+<h1 align="center">Hey there 👋</h1>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/Matiaszz)
+###
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
-class StudentOfPython:
+<p align="left">I'm Allan, from Brazil<br><br>- 📚 I'm currently learning Django<br>- ⚡ In my free time i play videogames!</p>
 
-    def __init__(self):
-        self.name = "Allan Giovanni Matias Paes"
-        self.role = "Student of Python"
-        self.language_spoken = ["pt-BR", "en_US(beta)"]
+###
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+<img align="left" height="200" src="https://avatars.githubusercontent.com/u/109719778?s=400&u=259792fd60158f51ea98f9de34b35c1c82b94518&v=4"  />
 
+###
 
-me = StudentOfPython()
-me.say_hi()
-```
+<h3 align="left">🛠 Language and tools</h3>
 
-## 🔧 Technologies & Tools
+###
 
-**Programming Languages:**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+###
 
-**Tools and Services:**
+<h3 align="left">💬 Social media :</h3>
 
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+###
 
-<!-- ## &#x1f4c8; GitHub Stats
+<div align="left">
+  <a href="https://www.linkedin.com/in/allan-giovanni-9a7042269/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/cmd.matiasz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/26521680/allan-giovanni-matias-paes" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+</div>
 
-<a href="https://github.com/Matiaszz/Matiaszz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a>
+###
 
-<a href="https://github.com/Matiaszz/Matiaszz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a> -->
+<h3 align="left">🔥   My Stats :</h3>
 
+###
 
-## 🗂️ Highlight Projects
-<!--
-COLOCAR PROJETOS AQUI
-
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a> -->
-<!--
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a> -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Matiaszz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
