@@ -10,10 +10,6 @@
 
 ###
 
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/109719778?s=400&u=259792fd60158f51ea98f9de34b35c1c82b94518&v=4"  />
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
