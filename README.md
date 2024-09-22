@@ -61,5 +61,10 @@
 ###
 
 <div align="center">
-  <p>1. <a>https://github.com/Matiaszz/Django-Agenda</a></p>
+  <p>1. <a href="https://github.com/Matiaszz/Django-Agenda">Django-Agenda</a></p>
+  <p>Descrição: Sistema de agendamento de compromissos usando Django e SQLite.</p>
+  
+  <p>2. <a href="https://github.com/Matiaszz/Projeto2">Project Name</a></p>
+  <p>Descrição: Breve descrição do projeto aqui.</p>
 </div>
+
