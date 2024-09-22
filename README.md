@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <p>1. <a href="https://github.com/Matiaszz/Django-Agenda">Django-Agenda</a></p>
+  <p>1. <a href="https://github.com/Matiaszz/Django-Agenda">Agenda</a></p>
   <p>Descrição: Sistema de agenda de contatos usando Django e SQLite.</p>
 </div>
 
