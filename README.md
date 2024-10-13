@@ -64,6 +64,6 @@
   <p>1. <a href="https://github.com/Matiaszz/Django-Agenda">Agenda</a></p>
   <p>Descrição: Sistema de agenda de contatos usando Django e SQLite.</p>
   <p>2. <a href="https://github.com/Matiaszz/Django-Blog">Blog</a></p>
-  <p>Descrição: Blog pessoal usando Django, Django-Summernote e PostgreSQL.</p>
+  <p>Descrição: Blog pessoal usando Django, Django-Summernote, Django-Axes e PostgreSQL.</p>
 </div>
 
