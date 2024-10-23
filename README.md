@@ -68,7 +68,7 @@
   <p>Descrição: Personal blog using Django, Django-Summernote, Django-Axes and PostgreSQL.</p>
   
   <p>3. <a href="https://github.com/Matiaszz/Ecommerce-Django">Ecommerce</a></p>
-  <p>Descrição: Simple ecommerce using Django, Django-debool-toolbar </p>
+  <p>Descrição: Simple ecommerce using Django, Django-debug-toolbar </p>
   <span>In development</span>
 </div>
 
