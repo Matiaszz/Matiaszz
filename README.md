@@ -69,6 +69,6 @@
   
   <p>3. <a href="https://github.com/Matiaszz/Ecommerce-Django">Ecommerce</a></p>
   <p>Descrição: Sistema de Ecommerce utilizando Django, Django-debool-toolbar </p>
-  <span style='color:#006400'>Em andamento</span>
+  <span>Em andamento</span>
 </div>
 
