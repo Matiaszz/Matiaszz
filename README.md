@@ -69,6 +69,6 @@
   
   <p>3. <a href="https://github.com/Matiaszz/Ecommerce-Django">Ecommerce</a></p>
   <p>Description: Simple ecommerce using Django, Django-debug-toolbar </p>
-  <span>In development</span>
+  >
 </div>
 
