@@ -61,14 +61,16 @@
 ###
 
 <div align="center">
-  <p>1. <a href="https://github.com/Matiaszz/Django-Agenda">Agenda</a></p>
-  <p>Description: Contacts list system using Django and SQLite</p>
+   <p>1. <a href="https://github.com/Matiaszz/Ecommerce-Django">Ecommerce</a></p>
+  <p>Description: Simple ecommerce using Django, Django-debug-toolbar </p>
+
+
   
   <p>2. <a href="https://github.com/Matiaszz/Django-Blog">Blog</a></p>
   <p>Description: Personal blog using Django, Django-Summernote, Django-Axes and PostgreSQL.</p>
   
-  <p>3. <a href="https://github.com/Matiaszz/Ecommerce-Django">Ecommerce</a></p>
-  <p>Description: Simple ecommerce using Django, Django-debug-toolbar </p>
+   <p>3. <a href="https://github.com/Matiaszz/Django-Agenda">Agenda</a></p>
+  <p>Description: Contacts list system using Django and SQLite</p>
   
 </div>
 
