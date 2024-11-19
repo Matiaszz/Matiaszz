@@ -62,7 +62,7 @@
 
 <div align="center">
    <p>1. <a href="https://github.com/Matiaszz/Ecommerce-Django">Ecommerce</a></p>
-  <p>Description: Simple ecommerce using Django, Django-debug-toolbar </p>
+  <p>Description: Simple ecommerce using Django, Django-debug-toolbar and Stripe API</p>
 
 
   
