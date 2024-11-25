@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
+a
 ###
 
 <p align="left">I'm Allan, from Brazil<br><br>- 📚 I'm currently learning Django and React<br>- ⚡ In my free time i play videogames!</p>
