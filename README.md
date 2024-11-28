@@ -73,6 +73,6 @@
   <p>Description: Contacts list system using Django and SQLite</p>
 
   <p>4. <a href="https://github.com/Matiaszz/Finance-Hub">Finance Hub</a></p>
-  <p>Description: A personal finance project made by me, using python, django, django-axes, docker and pandas</p>
+  <p>Description: A personal finance project made by me, using python, django, django-axes and pandas</p>
 </div>
 
