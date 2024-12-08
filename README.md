@@ -72,7 +72,7 @@
    <p>3. <a href="https://github.com/Matiaszz/Django-Agenda">Agenda</a></p>
   <p>Description: Contacts list system using Django and SQLite</p>
 
-  <p>4. <a href="https://github.com/Matiaszz/Finance-Hub">Finance Hub</a></p>
-  <p>Description: A personal finance project made by me, using python, django, django-axes and pandas</p>
+  <p>4. <a href="https://github.com/Matiaszz/Appointment-Scheduling-System">Scheduling</a></p>
+  <p>Description: A personal project of an scheduling system using django and django rest framework</p>
 </div>
 
