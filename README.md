@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Allan, from Brazil<br><br>- 📚 I'm currently developing an scheduling system with django!<br>- ⚡ In my free time i play videogames!</p>
+<p align="left">I'm Allan, from Brazil<br><br>- 📚 I'm currently developing a scheduling system with Django!<br>- ⚡ In my free time I play videogames!</p>
 
 ###
 
@@ -21,9 +21,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
 ###
@@ -73,6 +73,5 @@
   <p>Description: Contacts list system using Django and SQLite</p>
 
   <p>4. <a href="https://github.com/Matiaszz/Appointment-Scheduling-System">Scheduling</a></p>
-  <p>Description: A personal project of an scheduling system using django and django rest framework</p>
+  <p>Description: A personal project of a scheduling system using Django and Django Rest Framework</p>
 </div>
-
