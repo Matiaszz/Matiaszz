@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Allan, from Brazil<br><br>- 📚 I'm currently learning Django<br>- ⚡ In my free time i play videogames!</p>
+<p align="left">I'm Allan, from Brazil<br><br>- 📚 I'm currently developing an scheduling system with django!<br>- ⚡ In my free time i play videogames!</p>
 
 ###
 
