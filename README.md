@@ -74,4 +74,5 @@
 
   <p>4. <a href="https://github.com/Matiaszz/Appointment-Scheduling-System">Scheduling</a></p>
   <p>Description: A personal project of a scheduling system using Django and Django Rest Framework</p>
+  <p>In development</p>
 </div>
