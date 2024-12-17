@@ -73,6 +73,6 @@
   <p>Description: Contacts list system using Django and SQLite</p>
 
   <p>4. <a href="https://github.com/Matiaszz/Appointment-Scheduling-System">Scheduling</a></p>
-  <p>Description: A personal project of a scheduling system using Django and Django Rest Framework</p>
+  <p>Description: A personal project of a scheduling system using Django, Django Rest Framework, Google Calendars API and Railway</p>
   <p>In development</p>
 </div>
