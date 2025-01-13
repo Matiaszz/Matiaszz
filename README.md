@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Allan, from Brazil<br><br>- 📚 I'm currently learning Docker!<br>- ⚡ In my free time I play videogames!</p>
+<p align="left">I'm Allan, from Brazil<br><br>- 📚 I'm currently learning React!<br>- ⚡ In my free time I play videogames!</p>
 
 ###
 
