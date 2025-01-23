@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">💬 Social media :</h3>
+<h3 align="left">💬 Contact :</h3>
 
 ###
 
@@ -55,12 +55,13 @@
   <a href="https://www.instagram.com/cmd.matiasz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/26521680/allan-giovanni-matias-paes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <a href="mailto:allangiovannimatias@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/google/default.svg" width="52" height="40" alt="email logo"  />
   </a>
 </div>
 
 ###
+
 
 <h3 align="left">🔥 My Stats :</h3>
 
