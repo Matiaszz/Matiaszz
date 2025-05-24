@@ -76,28 +76,26 @@
 ###
 
 <div align="center">
-
-  <p>1. <strong>Task Management</strong></p>
+  <p>1. <strong><a href='https://github.com/Matiaszz/flextime-api'>FlexTime API</a></strong></p>
+    <p></p>
+    <p>FlexTime API is a Spring Boot SaaS scheduling system for companies and clients, supporting user and company registration, authentication, and role-based access.</p>
+    <p>It provides secure appointment management, worker management, and JWT-based stateless authentication with MySQL integration.</p>
+    <p>The project uses a clean, layered architecture with validation, exception handling, and Docker Compose support for local development.</p>
+    
+  
+  <p>2. <strong>Task Management</strong></p>
     <p>Backend: <a href='https://github.com/Matiaszz/BackendSpringTaskManagement'>Spring Boot</a></p>
     <p>Frontend: <a href='https://github.com/Matiaszz/FrontendTaskManagementSpring'>Next.js</a></p>
     <p>
     Description: A personal full-stack project with a Spring Boot backend that handles task lists and task operations through a RESTful API. Focused on backend structure and clean API design.
   </p>
   
-  <p>2. <a href="https://github.com/Matiaszz/Appointment-Scheduling-System">Scheduling</a></p>
+  <p>3. <a href="https://github.com/Matiaszz/Appointment-Scheduling-System">Scheduling</a></p>
   <p>Description: A personal project of a scheduling system using Django, Django Rest Framework, Google Calendars API and Railway</p>
   
   
-   <p>2. <a href="https://github.com/Matiaszz/Ecommerce-Django">Ecommerce</a></p>
+   <p>4. <a href="https://github.com/Matiaszz/Ecommerce-Django">Ecommerce</a></p>
   <p>Description: Simple ecommerce using Django, Django-debug-toolbar and Stripe API</p>
-
-
-  
-  <p>3. <a href="https://github.com/Matiaszz/Django-Blog">Blog</a></p>
-  <p>Description: Personal blog using Django, Django-Summernote, Django-Axes and PostgreSQL.</p>
-  
-   <p>4. <a href="https://github.com/Matiaszz/Django-Agenda">Agenda</a></p>
-  <p>Description: Contacts list system using Django and SQLite</p>
 
   
 </div>
