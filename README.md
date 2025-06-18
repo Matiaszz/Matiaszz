@@ -95,19 +95,15 @@
  
     
   
-  <p>2. <strong>Task Management</strong></p>
+  <p>3. <strong>Task Management</strong></p>
     <p>Backend: <a href='https://github.com/Matiaszz/BackendSpringTaskManagement'>Spring Boot</a></p>
     <p>Frontend: <a href='https://github.com/Matiaszz/FrontendTaskManagementSpring'>Next.js</a></p>
     <p>
     Description: A personal full-stack project with a Spring Boot backend that handles task lists and task operations through a RESTful API. Focused on backend structure and clean API design.
   </p>
   
-  <p>3. <a href="https://github.com/Matiaszz/Appointment-Scheduling-System">Scheduling</a></p>
+  <p>4. <a href="https://github.com/Matiaszz/Appointment-Scheduling-System">Scheduling</a></p>
   <p>Description: A personal project of a scheduling system using Django, Django Rest Framework, Google Calendars API and Railway</p>
-  
-  
-   <p>4. <a href="https://github.com/Matiaszz/Ecommerce-Django">Ecommerce</a></p>
-  <p>Description: Simple ecommerce using Django, Django-debug-toolbar and Stripe API</p>
 
   
 </div>
