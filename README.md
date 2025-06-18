@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Allan, from Brazil<br><br>- 📚 I'm currently learning Spring Boot and React!<br>- ⚡ In my free time I play videogames!</p>
+<p align="left">I'm Allan, from Brazil<br><br>📚 I'm currently learning Spring Boot and React!<br>⚡ In my free time I play videogames!</p>
 
 ###
 
@@ -76,11 +76,23 @@
 ###
 
 <div align="center">
-  <p>1. <strong><a href='https://github.com/Matiaszz/flextime-api'>FlexTime API</a></strong></p>
+  <p>1. <strong><a href='https://github.com/Matiaszz/smartdoc'>SmartDoc</a></strong></p>
+    <p></p>
+    <p>
+    SmartDoc is a Spring Boot application for document management and automation, integrating with Azure Blob Storage for scalable file storage and MySQL for metadata persistence.
+    </p>
+    <p>
+    It supports upload, download, listing, and deletion of documents via a RESTful API, with file type validation and metadata management.
+    </p>
+    <p>
+    The project features OpenAPI (Swagger) documentation, robust exception handling, and a modular, maintainable codebase suitable for cloud-native environments.
+    </p>
+  <p>2. <strong><a href='https://github.com/Matiaszz/flextime-api'>FlexTime API</a></strong></p>
     <p></p>
     <p>FlexTime API is a Spring Boot SaaS scheduling system for companies and clients, supporting user and company registration, authentication, and role-based access.</p>
     <p>It provides secure appointment management, worker management, and JWT-based stateless authentication with MySQL integration.</p>
     <p>The project uses a clean, layered architecture with validation, exception handling, and Docker Compose support for local development.</p>
+ 
     
   
   <p>2. <strong>Task Management</strong></p>
