@@ -36,9 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-  <img width="12" />
 </div>
-
 
 ###
 
@@ -60,7 +58,6 @@
 
 ###
 
-
 <h3 align="left">🔥 My Stats :</h3>
 
 ###
@@ -76,34 +73,22 @@
 ###
 
 <div align="center">
-  <p>1. <strong><a href='https://github.com/Matiaszz/smartdoc'>SmartDoc</a></strong></p>
-    <p></p>
-    <p>
-    SmartDoc is a Spring Boot application for document management and automation, integrating with Azure Blob Storage for scalable file storage and MySQL for metadata persistence.
-    </p>
-    <p>
-    It supports upload, download, listing, and deletion of documents via a RESTful API, with file type validation and metadata management.
-    </p>
-    <p>
-    The project features OpenAPI (Swagger) documentation, robust exception handling, and a modular, maintainable codebase suitable for cloud-native environments.
-    </p>
-  <p>2. <strong><a href='https://github.com/Matiaszz/flextime-api'>FlexTime API</a></strong></p>
-    <p></p>
-    <p>FlexTime API is a Spring Boot SaaS scheduling system for companies and clients, supporting user and company registration, authentication, and role-based access.</p>
-    <p>It provides secure appointment management, worker management, and JWT-based stateless authentication with MySQL integration.</p>
-    <p>The project uses a clean, layered architecture with validation, exception handling, and Docker Compose support for local development.</p>
- 
-    
   
-  <p>3. <strong>Task Management</strong></p>
-    <p>Backend: <a href='https://github.com/Matiaszz/BackendSpringTaskManagement'>Spring Boot</a></p>
-    <p>Frontend: <a href='https://github.com/Matiaszz/FrontendTaskManagementSpring'>Next.js</a></p>
-    <p>
-    Description: A personal full-stack project with a Spring Boot backend that handles task lists and task operations through a RESTful API. Focused on backend structure and clean API design.
-  </p>
+  <p>1. <strong><a href='https://github.com/Matiaszz/SkillVault'>SkillVault</a></strong></p>
+  <p>SkillVault is a Spring Boot application for validating digital skills and certificates, allowing authenticated users to upload and manage certifications via RESTful APIs.</p>
+  <p>It uses role-based access control, integrates with Azure Blob Storage, and supports Swagger documentation. Focused on clean architecture, security, and scalability.</p>
+
+  <p>2. <strong><a href='https://github.com/Matiaszz/smartdoc'>SmartDoc</a></strong></p>
+  <p>SmartDoc is a Spring Boot application for document management and automation, integrating with Azure Blob Storage for scalable file storage and MySQL for metadata persistence.</p>
+  <p>It supports upload, download, listing, and deletion of documents via a RESTful API, with file type validation and metadata management.</p>
+  <p>The project features OpenAPI (Swagger) documentation, robust exception handling, and a modular, maintainable codebase suitable for cloud-native environments.</p>
+  
+  <p>3. <strong><a href='https://github.com/Matiaszz/flextime-api'>FlexTime API</a></strong></p>
+  <p>FlexTime API is a Spring Boot SaaS scheduling system for companies and clients, supporting user and company registration, authentication, and role-based access.</p>
+  <p>It provides secure appointment management, worker management, and JWT-based stateless authentication with MySQL integration.</p>
+  <p>The project uses a clean, layered architecture with validation, exception handling, and Docker Compose support for local development.</p>
   
   <p>4. <a href="https://github.com/Matiaszz/Appointment-Scheduling-System">Scheduling</a></p>
   <p>Description: A personal project of a scheduling system using Django, Django Rest Framework, Google Calendars API and Railway</p>
 
-  
 </div>
