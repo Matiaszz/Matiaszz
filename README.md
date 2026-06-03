@@ -26,20 +26,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
 
-  <!-- Linguagens base -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
+  <!-- Frontend/Mobile -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Typescript" />
   <img width="12" />
-  
-  <!-- Front básico -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
   <img width="12" />
 
   <!-- Infra / dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="Firebase logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
@@ -48,16 +46,8 @@
 #### 📘 Currently Learning
 <div align="left">
     <!-- Mobile -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-<img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="Kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
+ <img width="12" />
 </div>
 
 ###
@@ -94,23 +84,22 @@
 
 ###
 
-<div align="center">
+<div align="left">
+
+  <p>⭐ <strong><a href='https://github.com/AllanMatiass/ES-PI3-2026-T1-G29'>MesclaInvest</a></strong> ⭐</p>
+  <p>MesclaInvest is an investment platform focused on startups that simulates a real Venture Capital and Capital Markets ecosystem.</p>
+  <p>The platform allows users to invest in startups by purchasing tokens, participate in primary funding rounds, trade assets in a secondary market, and track the performance and appreciation of their portfolios in real time.</p>
   
-  <p>1. <strong><a href='https://github.com/Matiaszz/SkillVault'>SkillVault</a></strong></p>
+  <p><strong><a href='https://github.com/Matiaszz/SkillVault'>SkillVault</a></strong></p>
   <p>SkillVault is a Spring Boot application for validating digital skills and certificates, allowing authenticated users to upload and manage certifications via RESTful APIs.</p>
   <p>It uses role-based access control, integrates with Azure Blob Storage, and supports Swagger documentation. Focused on clean architecture, security, and scalability.</p>
 
-  <p>2. <strong><a href='https://github.com/Matiaszz/smartdoc'>SmartDoc</a></strong></p>
+  <p><strong><a href='https://github.com/Matiaszz/smartdoc'>SmartDoc</a></strong></p>
   <p>SmartDoc is a Spring Boot application for document management and automation, integrating with Azure Blob Storage for scalable file storage and MySQL for metadata persistence.</p>
   <p>It supports upload, download, listing, and deletion of documents via a RESTful API, with file type validation and metadata management.</p>
   <p>The project features OpenAPI (Swagger) documentation, robust exception handling, and a modular, maintainable codebase suitable for cloud-native environments.</p>
   
-  <p>3. <strong><a href='https://github.com/Matiaszz/flextime-api'>FlexTime API</a></strong></p>
-  <p>FlexTime API is a Spring Boot SaaS scheduling system for companies and clients, supporting user and company registration, authentication, and role-based access.</p>
-  <p>It provides secure appointment management, worker management, and JWT-based stateless authentication with MySQL integration.</p>
-  <p>The project uses a clean, layered architecture with validation, exception handling, and Docker Compose support for local development.</p>
-  
-  <p>4. <a href="https://github.com/Matiaszz/Appointment-Scheduling-System">Scheduling</a></p>
-  <p>Description: A personal project of a scheduling system using Django, Django Rest Framework, Google Calendars API and Railway</p>
+  <p><a href="https://github.com/Matiaszz/Appointment-Scheduling-System">Scheduling</a></p>
+  <p>A personal project of a scheduling system using Django, Django Rest Framework, Google Calendars API and Railway</p>
 
 </div>
