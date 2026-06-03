@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Matias, from Brazil!<br><br>🚀 I love building backend applications and solving real-world problems with clean architecture.<br>🎯 Currently focused on mastering Java, Spring Boot, and cloud-based development.<br>⚡ In my free time I play videogames!</p>
+<p align="left">I'm Matias, from Brazil!<br><br>🚀 I love building backend applications and solving real-world problems with clean architecture.<br>🎯 Currently focused on mastering Java, Spring Boot, learning Domain Driven Design and Clean Arch.<br>⚡ In my free time I play videogames!</p>
 
 ###
 
@@ -48,6 +48,8 @@
     <!-- Mobile -->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="RabbitMQ logo" />
+<img width="12" />
 </div>
 
 ###
