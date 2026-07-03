@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Matias, from Brazil!<br><br>🚀 I love building backend applications and solving real-world problems with clean architecture.<br>🎯 Currently focused on mastering Java, Spring Boot, learning Domain Driven Design and Clean Arch.<br>⚡ In my free time I play videogames!</p>
+<p align="left">I'm Matias, from Brazil!<br><br>🚀 I love building backend applications and solving real-world problems with clean architecture.<br>🎯 Currently focused on mastering Java using Spring Boot.<br>⚡ In my free time I play videogames!</p>
 
 ###
 
