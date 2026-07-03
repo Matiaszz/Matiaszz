@@ -100,8 +100,5 @@
   <p>SmartDoc is a Spring Boot application for document management and automation, integrating with Azure Blob Storage for scalable file storage and MySQL for metadata persistence.</p>
   <p>It supports upload, download, listing, and deletion of documents via a RESTful API, with file type validation and metadata management.</p>
   <p>The project features OpenAPI (Swagger) documentation, robust exception handling, and a modular, maintainable codebase suitable for cloud-native environments.</p>
-  
-  <p><a href="https://github.com/Matiaszz/Appointment-Scheduling-System">Scheduling</a></p>
-  <p>A personal project of a scheduling system using Django, Django Rest Framework, Google Calendars API and Railway</p>
 
 </div>
