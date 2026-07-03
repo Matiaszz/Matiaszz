@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">I'm Matias, from Brazil!<br><br>🚀 I love building backend applications and solving real-world problems with clean architecture.<br>🎯 Currently focused on mastering Java using Spring Boot.<br>⚡ In my free time I play videogames!</p>
+<p align="left">
+Hey! I'm Matias from Brazil 🇧🇷<br><br>
+
+🚀 I enjoy building backend applications and solving real-world problems through clean and maintainable code.<br>
+🎯 Right now, I'm focused on becoming a better Java developer with Spring Boot.<br>
+🎮 Outside of coding, you'll probably find me playing video games.
+</p>
 
 ###
 
