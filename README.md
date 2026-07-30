@@ -7,11 +7,7 @@
 </p>
 
 <p align="center">
-
-<a href="./README-PTBR.md">
-Versão em Português
-</a>
-
+  <a href="./README-PTBR.md">Versão em Português</a>
 </p>
 
 ---
@@ -19,179 +15,60 @@ Versão em Português
 # 👨‍💻 About Me
 
 <div align="center">
-  <img
-    src="https://media1.tenor.com/m/xA4q0AO9UH0AAAAC/keyboard-hanamaru-kindergarten.gif"
-    width="260"
-  />
+  <img src="https://media1.tenor.com/m/xA4q0AO9UH0AAAAC/keyboard-hanamaru-kindergarten.gif" width="220" />
 </div>
 
 <br>
 
+I'm **Matias**, a Software Engineering student from Brazil focused on backend development, software architecture, and cloud solutions.
 
-<div width="60%">
+Currently developing **LedgerOS**, a financial management platform using **Java** and a **Serverless architecture on AWS (Lambda & DynamoDB)**, applying cloud computing, high availability, and scalability concepts.
 
-I'm **Matias**, a Software Engineering student from Brazil.
-
-I'm passionate about backend development, software architecture and building systems that solve real-world problems.
-
-I am currently developing LedgerOS, a financial management platform built with Java and a serverless architecture on AWS (Lambda and DynamoDB), applying cloud computing, high availability, and scalability concepts.
-
-### 🚀 Current Focus
-
-- Java 21
-- Spring Boot
-- Clean Architecture
-- AWS
-- PostgreSQL
-- Docker
-
-Outside coding you'll probably find me playing video games.
-
-</div>
+Outside coding, you'll probably find me playing video games.
 
 ---
 
-# 🛠 My Stack
+# 🛠 Tech Stack
 
-## ⚙️ Main
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,postgres,mysql,docker,firebase,git,github"/>
-
-</p>
-
-## 📱 Secondary
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,react,flutter"/>
-
-</p>
-
-## 📚 Currently Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,rabbitmq"/>
-
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Main** | <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,postgres,mysql,docker,firebase,git,github"/> |
+| **Secondary** | <img src="https://skillicons.dev/icons?i=python,react,flutter"/> |
+| **Currently Learning** | <img src="https://skillicons.dev/icons?i=aws,rabbitmq"/> |
 
 ---
 
 # 🚀 Featured Projects
 
-## 📄 DocIntel
+### 📄 [DocIntel](https://github.com/Matiaszz/docintel)
+> **Document Management Platform** | *Spring Boot, Java 21, PostgreSQL, S3, Azure Blob, SES, Hexagonal Arch*
+* Features RBAC, metadata storage, email verification, and dynamic Cloud Storage abstraction.
 
-> Document Management Platform
+### 💰 [MesclaInvest](https://github.com/AllanMatiass/ES-PI3-2026-T1-G29)
+> **Venture Capital Ecosystem Simulator** | *Typescript, Dart, Firebase*
+* Handles tokenized assets, portfolio tracking, startup investments, and secondary markets.
 
-- Spring Boot
-- Java 21
-- PostgreSQL
-- JWT Authentication
-- Refresh Tokens
-- Amazon S3
-- Azure Blob Storage
-- Amazon SES
-- Hexagonal Architecture
-- Modular Monolith
-
-**Features**
-
-- Upload documents
-- Download
-- Delete
-- RBAC
-- Metadata storage
-- Cloud Storage abstraction
-- Email verification
-
-🔗 https://github.com/Matiaszz/docintel
+### 🛡️ [SkillVault](https://github.com/Matiaszz/SkillVault)
+> **Skills & Certification Validation API** | *Spring Boot, Azure Blob, JWT, OpenAPI, Docker*
+* REST API designed for validating professional credentials and access control.
 
 ---
 
-## 💰 MesclaInvest
-
-Investment platform that simulates a Venture Capital ecosystem.
-
-- Tokenized Assets
-- Startup Investments
-- Portfolio Tracking
-- Primary Funding
-- Secondary Market
-
-🔗 https://github.com/AllanMatiass/ES-PI3-2026-T1-G29
-
----
-
-## 🛡 SkillVault
-
-REST API for validating professional skills and certifications.
-
-- Spring Boot
-- Azure Blob Storage
-- JWT
-- RBAC
-- Docker
-- OpenAPI
-
-🔗 https://github.com/Matiaszz/SkillVault
-
----
-
-# 📈 Learning Roadmap
-
-```text
-✅ Java
-
-✅ Spring Boot
-
-✅ Docker
-
-✅ PostgreSQL
-
-✅ JWT
-
-✅ REST APIs
-
-✅ Azure Blob Storage
-
-🟨 AWS
-
-🟨 RabbitMQ
-
-⬜ Redis
-
-⬜ Kubernetes
-
-⬜ Kafka
-
-⬜ Terraform
-
-⬜ Microservices
-```
 # 📊 GitHub Statistics
+
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Matiaszz&show_icons=true&theme=github_dark&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiaszz&layout=compact&theme=github_dark&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Matiaszz&theme=github-dark-blue&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matiaszz&theme=github-dark"/> </p>
+
+---
 
 # 🌎 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matiassdev/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-
-  <a href="https://allanmatias.vercel.app">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="48" alt="Portfolio"/>
-  </a>
-
-  <a href="mailto:allangiovannimatias@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/mail.png" width="48"/>
-  </a>
-
-  <a href="https://www.instagram.com/cmd.matiasz/">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48"/>
-  </a>
+  <a href="https://www.linkedin.com/in/matiassdev/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://allanmatias.vercel.app"><img src="https://img.icons8.com/fluency/48/domain.png" width="48" alt="Portfolio"/></a>
+  <a href="mailto:allangiovannimatias@gmail.com"><img src="https://img.icons8.com/fluency/48/mail.png" width="48"/></a>
+  <a href="https://www.instagram.com/cmd.matiasz/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48"/></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Matiaszz&style=for-the-badge"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:0F172A&section=footer"/> </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Matiaszz&style=for-the-badge"/>
+</p>
