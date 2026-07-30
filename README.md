@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:2563EB&text=Matias&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:2563EB&text=Allan%20Matias&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=60"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=Backend+Developer;Java+%7C+Spring+Boot;Building+Cloud+Applications;Learning+AWS+and+Distributed+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;Building+Cloud+Applications;Learning+AWS+and+Distributed+Systems" />
 </p>
 
 <p align="center">
@@ -171,3 +171,29 @@ REST API for validating professional skills and certifications.
 ⬜ Terraform
 
 ⬜ Microservices
+```
+# 📊 GitHub Statistics
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Matiaszz&show_icons=true&theme=github_dark&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiaszz&layout=compact&theme=github_dark&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Matiaszz&theme=github-dark-blue&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matiaszz&theme=github-dark"/> </p>
+
+# 🌎 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matiassdev/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+
+  <a href="https://allanmatias.vercel.app">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="48" alt="Portfolio"/>
+  </a>
+
+  <a href="mailto:allangiovannimatias@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/mail.png" width="48"/>
+  </a>
+
+  <a href="https://www.instagram.com/cmd.matiasz/">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48"/>
+  </a>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Matiaszz&style=for-the-badge"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:0F172A&section=footer"/> </p>
+
