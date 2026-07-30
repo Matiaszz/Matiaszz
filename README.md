@@ -18,12 +18,16 @@ Versão em Português
 
 # 👨‍💻 About Me
 
-<table>
-<tr>
+<div align="center">
 
-<td width="60%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
 
-I'm **Matias**, a Software Engineering student from Brazil 🇧🇷.
+</div>
+
+
+<div width="60%">
+
+I'm **Matias**, a Software Engineering student from Brazil.
 
 I'm passionate about backend development, software architecture and building systems that solve real-world problems.
 
@@ -40,16 +44,7 @@ I am currently developing LedgerOS, a financial management platform built with J
 
 Outside coding you'll probably find me playing video games.
 
-</td>
-
-<td>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
