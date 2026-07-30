@@ -24,6 +24,8 @@ Versão em Português
 
 </div>
 
+<br>
+
 
 <div width="60%">
 
