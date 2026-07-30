@@ -16,12 +16,18 @@
 
 # 👨‍💻 Sobre Mim
 
-<table>
-<tr>
 
-<td width="60%">
+<div align="center">
 
-Sou o **Matias**, estudante de Engenharia de Software no Brasil 🇧🇷.
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
+
+</div>
+
+
+
+<div width="60%">
+
+Sou o **Matias**, estudante de Engenharia de Software.
 
 Sou apaixonado por desenvolvimento backend, arquitetura de software e por construir sistemas que resolvem problemas reais.
 
@@ -38,16 +44,9 @@ Atualmente estou desenvolvendo o LedgerOS, uma plataforma de gestão financeira 
 
 Fora da programação, provavelmente estou jogando videogame.
 
-</td>
+</div>
 
-<td>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
