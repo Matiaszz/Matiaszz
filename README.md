@@ -27,7 +27,7 @@ I'm **Matias**, a Software Engineering student from Brazil 🇧🇷.
 
 I'm passionate about backend development, software architecture and building systems that solve real-world problems.
 
-Currently I'm building **DocIntel**, an intelligent document management platform focused on scalability and cloud-native architecture.
+I am currently developing LedgerOS, a financial management platform built with Java and a serverless architecture on AWS (Lambda and DynamoDB), applying cloud computing, high availability, and scalability concepts.
 
 ### 🚀 Current Focus
 
@@ -53,7 +53,7 @@ Outside coding you'll probably find me playing video games.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 My Stack
 
 ## ⚙️ Main
 
