@@ -19,9 +19,10 @@ Versão em Português
 # 👨‍💻 About Me
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
-
+  <img
+    src="https://media1.tenor.com/m/xA4q0AO9UH0AAAAC/keyboard-hanamaru-kindergarten.gif"
+    width="260"
+  />
 </div>
 
 <br>
