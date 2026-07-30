@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="./README-EN.md">
+  <a href="./README.md">
     English Version
   </a>
 </p>
