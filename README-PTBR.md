@@ -1,122 +1,215 @@
-
-<p align="right">
-  <a href="./README-EN.md">English version</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:2563EB&text=Allan%20Matias&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Estudante%20de%20Engenharia%20de%20Software&descAlignY=60"/>
 </p>
 
-<h1 align="center">E aí 👋</h1>
-
-
-<h3 align="left">👨‍💻 Sobre mim</h3>
-
-###
-
-<p align="left">
-Sou um desenvolvedor brasileiro chamado Matias<br><br>
-🚀 Curto construir aplicações backend e resolver problemas reais com código limpo e sustentável.<br>
-🎯 Atualmente construindo o DocIntel, uma plataforma de gerenciamento inteligente de documentos utilizando Spring Boot e AWS. <br>
-🧑‍🎓 Estudante de Engenharia de Software <br>
-🎮 Fora do código, provavelmente estou jogando alguma coisa.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;Construindo+Aplicações+em+Nuvem;Aprendendo+AWS+e+Sistemas+Distribuídos" />
 </p>
 
-###
-
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
-
-#### ⚙️ Principais stacks
-<div align="left">
-  <!-- Backend principal -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
-  <img width="12" />
-
-  <!-- Backend secundário / runtime -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-
-
-  <!-- Frontend/Mobile -->
-
-  <!-- Infra / dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgres" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-</div>
-
-#### 📱Tecnologias Secundarias
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img width="12" />
-
-</div>
-
-#### 📘 Aprendendo agora
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">💬 Contato</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/allan-matias-9a7042269/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="./README-EN.md">
+    English Version
   </a>
-  <a href="https://www.instagram.com/cmd.matiasz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</p>
+
+---
+
+# 👨‍💻 Sobre Mim
+
+<table>
+<tr>
+
+<td width="60%">
+
+Sou o **Matias**, estudante de Engenharia de Software no Brasil 🇧🇷.
+
+Sou apaixonado por desenvolvimento backend, arquitetura de software e por construir sistemas que resolvem problemas reais.
+
+Atualmente estou desenvolvendo o LedgerOS, uma plataforma de gestão financeira utilizando Java e uma arquitetura Serverless na AWS (Lambda e DynamoDB), aplicando conceitos de computação em nuvem, alta disponibilidade e escalabilidade.
+
+### 🚀 Foco Atual
+
+- Java 21
+- Spring Boot
+- Clean Architecture
+- AWS
+- PostgreSQL
+- Docker
+
+Fora da programação, provavelmente estou jogando videogame.
+
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠 Minha Stack
+
+## ⚙️ Principal
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,postgres,mysql,docker,firebase,git,github"/>
+
+</p>
+
+## 📱 Secundária
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,react,flutter"/>
+
+</p>
+
+## 📚 Aprendendo Atualmente
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,rabbitmq"/>
+
+</p>
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 📄 DocIntel
+
+> Plataforma de Gerenciamento de Documentos
+
+- Spring Boot
+- Java 21
+- PostgreSQL
+- Autenticação JWT
+- Refresh Tokens
+- Amazon S3
+- Azure Blob Storage
+- Amazon SES
+- Arquitetura Hexagonal
+- Monólito Modular
+
+**Funcionalidades**
+
+- Upload de documentos
+- Download de documentos
+- Exclusão de documentos
+- Controle de acesso baseado em papéis (RBAC)
+- Armazenamento de metadados
+- Abstração de provedores de armazenamento em nuvem
+- Verificação de e-mail
+
+🔗 https://github.com/Matiaszz/docintel
+
+---
+
+## 💰 MesclaInvest
+
+Plataforma de investimentos que simula um ecossistema de Venture Capital.
+
+- Ativos Tokenizados
+- Investimentos em Startups
+- Acompanhamento de Carteira
+- Rodadas Primárias de Captação
+- Mercado Secundário
+
+🔗 https://github.com/AllanMatiass/ES-PI3-2026-T1-G29
+
+---
+
+## 🛡 SkillVault
+
+API REST para validação de habilidades profissionais e certificados digitais.
+
+- Spring Boot
+- Azure Blob Storage
+- JWT
+- RBAC
+- Docker
+- OpenAPI
+
+🔗 https://github.com/Matiaszz/SkillVault
+
+---
+
+# 📈 Roadmap de Aprendizado
+
+```text
+✅ Java
+
+✅ Spring Boot
+
+✅ Docker
+
+✅ PostgreSQL
+
+✅ JWT
+
+✅ APIs REST
+
+✅ Azure Blob Storage
+
+🟨 AWS
+
+🟨 RabbitMQ
+
+⬜ Redis
+
+⬜ Kubernetes
+
+⬜ Kafka
+
+⬜ Terraform
+
+⬜ Microsserviços
+```
+
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Matiaszz&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matiaszz&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Matiaszz&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matiaszz&theme=github-dark"/>
+</p>
+
+# 🌎 Entre em Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matiassdev/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="mailto:allangiovannimatias@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" height="40" alt="email logo"  />
+
+  <a href="https://allanmatias.vercel.app">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="48" alt="Portfólio"/>
   </a>
-</div>
 
-###
+  <a href="mailto:allangiovannimatias@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/mail.png" width="48"/>
+  </a>
 
-<h3 align="left">🔥 Minhas Estatísticas</h3>
+  <a href="https://www.instagram.com/cmd.matiasz/">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48"/>
+  </a>
+</p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Matiaszz&style=for-the-badge"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Matiaszz&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="left">📓 Melhores Projetos</h3>
-
-###
-
-<div align="left">
-
-  <p><strong><a href='https://github.com/Matiaszz/docintel'>DocIntel</a></strong></p>
-  <p>Aplicação em Spring Boot para gestão e análise de documentos, integrada a serviços de nuvem como AWS S3/Azure Blob Storage para armazenamento de arquivos e Postgres para persistência de metadados.</p>
-  <p>Suporta upload, download, listagem e exclusão de documentos via web.</p>
-  <p>Integração com Amazon SES para envio de e-mails.</p>
-  <p>Análise sendo implementada.</p>
-  <p>Arquitetura baseada em Monólito Modular, utilizando conceitos de Ports and Adapters para desacoplar integrações externas, como armazenamento em nuvem.</p>
-  
-
-  <p><strong><a href='https://github.com/AllanMatiass/ES-PI3-2026-T1-G29'>MesclaInvest</a></strong></p>
-  <p>Plataforma de investimentos focada em startups que simula um ecossistema real de Venture Capital e Mercado de Capitais.</p>
-  <p>Permite investir em startups via compra de tokens, participar de rodadas primárias de captação, negociar ativos em mercado secundário e acompanhar o desempenho e a valorização da carteira em tempo real.</p>
-
-  <p><strong><a href='https://github.com/Matiaszz/SkillVault'>SkillVault</a></strong></p>
-  <p>Aplicação em Spring Boot para validação de habilidades e certificados digitais, permitindo que usuários autenticados façam upload e gerenciem certificações via APIs RESTful.</p>
-  <p>Utiliza controle de acesso baseado em papéis (RBAC), integra com Azure Blob Storage e conta com documentação via Swagger. Foco em arquitetura limpa, segurança e escalabilidade.</p>
-
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,100:0F172A&section=footer"/>
+</p>
