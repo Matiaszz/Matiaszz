@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;Construindo+Aplica%C3%A7%C3%B5es+em+Nuvem;Estudando+AWS+e+Sistemas+Distrib%C3%ADdos" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;Construindo+Aplica%C3%A7%C3%B5es+em+Nuvem;Estudando+AWS+e+Aplicações+Serverless" />
 </p>
 
 <p align="center">
