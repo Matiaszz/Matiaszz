@@ -54,8 +54,6 @@ Outside coding, you'll probably find me playing video games.
 
 ---
 
-# 📊 GitHub Statistics
-
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matiaszz&theme=github-dark"/> </p>
 
 ---
