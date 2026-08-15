@@ -34,7 +34,7 @@ Outside coding, you'll probably find me playing video games.
 | :--- | :--- |
 | **Main** | <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,postgres,mysql,docker,firebase,git,github"/> |
 | **Secondary** | <img src="https://skillicons.dev/icons?i=python,react,flutter"/> |
-| **Currently Learning** | <img src="https://skillicons.dev/icons?i=aws,rabbitmq"/> |
+| **Currently Learning** | <img src="https://skillicons.dev/icons?i=aws"/> |
 
 ---
 
