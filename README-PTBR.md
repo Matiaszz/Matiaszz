@@ -22,9 +22,10 @@
 
 Sou **Allan Matias**, estudante de Engenharia de Software focado em desenvolvimento backend, arquitetura de software e soluções em nuvem.
 
-Atualmente estou desenvolvendo o **LedgerOS**, uma plataforma de gestão financeira utilizando **Java** e uma **arquitetura Serverless na AWS (Lambda e DynamoDB)**, aplicando conceitos de computação em nuvem, alta disponibilidade e escalabilidade.
+Atualmente estou desenvolvendo o **Converge: Caronas Universitárias**, um Projeto Integrador focado no desenvolvimento de uma plataforma de caronas entre estudantes, aplicando conceitos de **concorrência, idempotência, programação com Threads, comunicação via Sockets e algoritmos de matching**.
 
-Fora do código, você provavelmente vai me encontrar jogando algum videogame.
+
+Fora do código, você provavelmente vai me encontrar jogando.
 
 ---
 
