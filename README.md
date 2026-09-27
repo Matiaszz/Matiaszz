@@ -40,15 +40,15 @@ Outside coding, you'll probably find me playing video games.
 
 # 🚀 Featured Projects
 
-### 📄 [DocIntel](https://github.com/Matiaszz/docintel)
+### [DocIntel](https://github.com/Matiaszz/docintel)
 > **Document Management Platform** | *Spring Boot, Java 21, PostgreSQL, S3, Azure Blob, SES, Hexagonal Arch*
 * Features RBAC, metadata storage, email verification, and dynamic Cloud Storage abstraction.
 
-### 💰 [MesclaInvest](https://github.com/AllanMatiass/ES-PI3-2026-T1-G29)
+### [MesclaInvest](https://github.com/AllanMatiass/ES-PI3-2026-T1-G29)
 > **Venture Capital Ecosystem Simulator** | *Typescript, Dart, Firebase*
 * Handles tokenized assets, portfolio tracking, startup investments, and secondary markets.
 
-### 🛡️ [SkillVault](https://github.com/Matiaszz/SkillVault)
+### [SkillVault](https://github.com/Matiaszz/SkillVault)
 > **Skills & Certification Validation API** | *Spring Boot, Azure Blob, JWT, OpenAPI, Docker*
 * REST API designed for validating professional credentials and access control.
 
