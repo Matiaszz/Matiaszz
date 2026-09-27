@@ -20,7 +20,7 @@
 
 <br>
 
-I'm **Matias**, a Software Engineering student from Brazil focused on backend development, software architecture, and cloud solutions.
+I'm **Allan Matias**, a Software Engineering student from Brazil focused on backend development, software architecture, and cloud solutions.
 
 Currently developing **LedgerOS**, a financial management platform using **Java** and a **Serverless architecture on AWS (Lambda & DynamoDB)**, applying cloud computing, high availability, and scalability concepts.
 
