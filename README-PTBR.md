@@ -33,9 +33,9 @@ Fora do código, você provavelmente vai me encontrar jogando.
 
 | Domínio | Tecnologias |
 | :--- | :--- |
-| **Principal** | <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,postgres,mysql,docker,firebase,git,github"/> |
+| **Principal** | <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,postgres,mysql,docker,firebase,mongo,git,github"/> |
 | **Secundário** | <img src="https://skillicons.dev/icons?i=python,react,flutter"/> |
-| **Estudando** | <img src="https://skillicons.dev/icons?i=aws,rabbitmq"/> |
+| **Estudando** | <img src="https://skillicons.dev/icons?i=aws"/> |
 
 ---
 
