@@ -20,7 +20,7 @@
 
 <br>
 
-Sou o **Matias**, estudante de Engenharia de Software focado em desenvolvimento backend, arquitetura de software e soluções em nuvem.
+Sou **Allan Matias**, estudante de Engenharia de Software focado em desenvolvimento backend, arquitetura de software e soluções em nuvem.
 
 Atualmente estou desenvolvendo o **LedgerOS**, uma plataforma de gestão financeira utilizando **Java** e uma **arquitetura Serverless na AWS (Lambda e DynamoDB)**, aplicando conceitos de computação em nuvem, alta disponibilidade e escalabilidade.
 
