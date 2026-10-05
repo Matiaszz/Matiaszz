@@ -20,7 +20,7 @@
 
 <br>
 
-I'm **Allan Matias**, a Software Engineering student from Brazil focused on backend development, software architecture, and cloud solutions.
+I'm **Allan Matias**, a Software Engineering student and full stack developer from Brazil focused on backend development, software architecture, and cloud solutions.
 
 Currently developing **Converge: University Ride-Sharing**, An University Integrative Project focused on developing a ride-sharing platform for students, applying **concurrency, multithreading, socket communication, idempotency, and matching algorithms**.
 
