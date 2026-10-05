@@ -66,7 +66,7 @@ Outside coding, you'll probably find me playing video games.
   <a href="https://www.linkedin.com/in/matiassdev/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="https://allanmatias.vercel.app"><img src="https://img.icons8.com/fluency/48/domain.png" width="48" alt="Portfolio"/></a>
   <a href="mailto:allangiovannimatias@gmail.com"><img src="https://img.icons8.com/fluency/48/mail.png" width="48"/></a>
-  <a href="https://www.instagram.com/cmd.matiasz/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48"/></a>
+  <a href="https://www.instagram.com/matiass.dev/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48"/></a>
 </p>
 
 <p align="center">
