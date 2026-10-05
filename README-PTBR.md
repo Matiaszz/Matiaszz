@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;Construindo+Aplica%C3%A7%C3%B5es+em+Nuvem;Estudando+AWS+e+Aplicações+Serverless" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+de+Software;Java+%26+Spring+Boot;Aprendendo+AWS+%26+Cloud;Construindo+e+Aprendendo" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <br>
 
-Sou **Allan Matias**, estudante de Engenharia de Software focado em desenvolvimento backend, arquitetura de software e soluções em nuvem.
+Sou **Allan Matias**, estudante de Engenharia de Software e desenvolvedor full stack com foco em desenvolvimento backend, arquitetura de software e soluções em nuvem.
 
 Atualmente estou desenvolvendo o **Converge: Caronas Universitárias**, um Projeto Integrador focado no desenvolvimento de uma plataforma de caronas entre estudantes, aplicando conceitos de **concorrência, idempotência, programação com Threads, comunicação via Sockets e algoritmos de matching**.
 
