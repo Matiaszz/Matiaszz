@@ -32,7 +32,7 @@ Outside coding, you'll probably find me playing video games.
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Main** | <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,postgres,mysql,docker,firebase,mnongo,git,github"/> |
+| **Main** | <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,postgres,mysql,docker,firebase,mongo,git,github"/> |
 | **Secondary** | <img src="https://skillicons.dev/icons?i=python,react,flutter"/> |
 | **Currently Learning** | <img src="https://skillicons.dev/icons?i=aws"/> |
 
