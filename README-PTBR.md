@@ -70,6 +70,6 @@ Outside coding, you'll probably find me playing video games.
   <a href="https://www.instagram.com/matiass.dev/">\<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48"/>\</a>
 </p>
 
-\<p align="center">
-  \<img src="https://komarev.com/ghpvc/?username=Matiaszz&style=for-the-badge"/>
-\</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Matiaszz&style=for-the-badge"/>
+</p>
