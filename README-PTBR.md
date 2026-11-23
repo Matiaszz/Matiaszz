@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="./README-PTBR.md">Versão em Português\</a>
+  <a href="./README-PTBR.md">Versão em Português</a>
 </p>
 
 ---
