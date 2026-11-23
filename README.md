@@ -7,13 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="./README-PTBR.md">Versão em Português</a>
+  <a href="./README-PTBR.md">Versão em Português\</a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
-
 <div align="center">
   <img src="https://media1.tenor.com/m/xA4q0AO9UH0AAAAC/keyboard-hanamaru-kindergarten.gif" width="220" />
 </div>
@@ -22,23 +21,28 @@
 
 I'm **Allan Matias**, a Software Engineering student and full stack developer from Brazil focused on backend development, software architecture, and cloud solutions.
 
-Currently developing **Converge: University Ride-Sharing**, An University Integrative Project focused on developing a ride-sharing platform for students, applying **concurrency, multithreading, socket communication, idempotency, and matching algorithms**.
+Recently completed **Converge: University Ride-Sharing**, a university project focused on building a ride-sharing platform for students, applying **concurrency, multithreading, TCP socket communication, idempotency, and matching algorithms**.
 
 Outside coding, you'll probably find me playing video games.
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Main** | <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,postgres,mysql,docker,firebase,mongo,git,github"/> |
-| **Secondary** | <img src="https://skillicons.dev/icons?i=python,react,flutter"/> |
-| **Currently Learning** | <img src="https://skillicons.dev/icons?i=aws"/> |
+| **Main** | \<img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,postgres,mysql,docker,firebase,mongo,git,github"/> |
+| **Secondary** | \<img src="https://skillicons.dev/icons?i=python,react,flutter"/> |
+| **Currently Learning** | \<img src="https://skillicons.dev/icons?i=aws"/> |
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
+
+### [Converge](https://github.com/CrisFava/PI_IV-TIME-29)
+> **University Ride-Sharing Platform** | *Java 21, Spring Boot 4, Flutter, MongoDB, Firebase, TCP Sockets*
+* Full-stack university carpooling platform featuring intelligent ride matching, real-time communication, PIX payments, and mutual reviews.
+* Implements modular hexagonal architecture, concurrent processing, socket-based communication, and idempotent operations.
 
 ### [DocIntel](https://github.com/Matiaszz/docintel)
 > **Document Management Platform** | *Spring Boot, Java 21, PostgreSQL, S3, Azure Blob, SES, Hexagonal Arch*
@@ -48,14 +52,10 @@ Outside coding, you'll probably find me playing video games.
 > **Venture Capital Ecosystem Simulator** | *Typescript, Dart, Firebase*
 * Handles tokenized assets, portfolio tracking, startup investments, and secondary markets.
 
-### [SkillVault](https://github.com/Matiaszz/SkillVault)
-> **Skills & Certification Validation API** | *Spring Boot, Azure Blob, JWT, OpenAPI, Docker*
-* REST API designed for validating professional credentials and access control.
-
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matiaszz&show_icons=true&theme=github_dark&hide_border=true" />
+  \<img src="https://github-readme-stats.vercel.app/api?username=Matiaszz&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -63,10 +63,10 @@ Outside coding, you'll probably find me playing video games.
 # 🌎 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matiassdev/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://allanmatias.vercel.app"><img src="https://img.icons8.com/fluency/48/domain.png" width="48" alt="Portfolio"/></a>
-  <a href="mailto:allangiovannimatias@gmail.com"><img src="https://img.icons8.com/fluency/48/mail.png" width="48"/></a>
-  <a href="https://www.instagram.com/matiass.dev/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48"/></a>
+  <a href="https://www.linkedin.com/in/matiassdev/">\<img src="https://skillicons.dev/icons?i=linkedin"/>\</a>
+  <a href="https://allanmatias.vercel.app">\<img src="https://img.icons8.com/fluency/48/domain.png" width="48" alt="Portfolio"/>\</a>
+  <a href="mailto:allangiovannimatias@gmail.com">\<img src="https://img.icons8.com/fluency/48/mail.png" width="48"/>\</a>
+  <a href="https://www.instagram.com/matiass.dev/">\<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48"/>\</a>
 </p>
 
 <p align="center">
